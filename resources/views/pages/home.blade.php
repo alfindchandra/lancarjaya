@@ -68,6 +68,8 @@
 </div>
 
 <x-products />
+<x-news-section />
+
 
 @endsection
 @push('scripts')
